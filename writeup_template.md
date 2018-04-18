@@ -74,12 +74,15 @@ where I'd go off to the side and record my re-entry.
 After this, my car performed well! Here's some sample images.
 
 Regular
+
 ![regular](https://github.com/jhevrin2/CarND-Behavioral-Cloning-P3/blob/master/static/regular.jpg "regular")
 
 Flipped
+
 ![flipped](https://github.com/jhevrin2/CarND-Behavioral-Cloning-P3/blob/master/static/flipped.jpg "flipped")
 
 Correction
+
 ![correction](https://github.com/jhevrin2/CarND-Behavioral-Cloning-P3/blob/master/static/correction.jpg "correction")
 
 ### Model Architecture and Training Strategy
