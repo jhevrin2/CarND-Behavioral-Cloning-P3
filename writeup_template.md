@@ -74,13 +74,13 @@ where I'd go off to the side and record my re-entry.
 After this, my car performed well! Here's some sample images.
 
 Regular
-![nvidia_network][https://github.com/jhevrin2/CarND-Behavioral-Cloning-P3/blob/master/static/regular.jpg]
+![regular](https://github.com/jhevrin2/CarND-Behavioral-Cloning-P3/blob/master/static/regular.jpg "regular")
 
 Flipped
-![nvidia_network][https://github.com/jhevrin2/CarND-Behavioral-Cloning-P3/blob/master/static/flipped.jpg]
+![flipped](https://github.com/jhevrin2/CarND-Behavioral-Cloning-P3/blob/master/static/flipped.jpg "flipped")
 
 Correction
-![correction][https://github.com/jhevrin2/CarND-Behavioral-Cloning-P3/blob/master/static/correction.jpg]
+![correction](https://github.com/jhevrin2/CarND-Behavioral-Cloning-P3/blob/master/static/correction.jpg "correction")
 
 ### Model Architecture and Training Strategy
 
@@ -99,8 +99,7 @@ Throughout the tests, I leveraged the NVIDIA driving convolutional neural networ
 
 As touched on above, here is the network architecture in picture form:
 
-[image1]: ./static/nvidia-cnn.png "Model Visualization"
-![nvidia_network][https://github.com/jhevrin2/CarND-Behavioral-Cloning-P3/blob/master/static/nvidia-cnn.png]
+![nvidia_network](https://github.com/jhevrin2/CarND-Behavioral-Cloning-P3/blob/master/static/nvidia-cnn.png "nvidia-cnn")
 
 #### 3. Creation of the Training Set & Training Process
 
